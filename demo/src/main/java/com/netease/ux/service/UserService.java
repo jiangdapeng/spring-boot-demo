@@ -1,4 +1,4 @@
-package com.netease.ux;
+package com.netease.ux.service;
 
 /**
  * Created by JDP on 2016/12/16.
